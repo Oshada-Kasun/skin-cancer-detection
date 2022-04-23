@@ -10,10 +10,10 @@ Project aims to tackle this problem by implementing deep learning frameworks to 
 
 * The skin images are randomly selected without regard to the age, sex and the type of diagnosis to avoid representation bias in the data.
 
-## Development and Deployment
+## Web app Development and Deployment
 
 * The heatmaps are generated using Grad-CAM (Gradient-weighted Class Activation Mapping) to incorporate Explainable AI. After that the trained model has been saved into TFLite  and H5 file formats for the deployment purpose. 
 
-* Deployed as a Web App, using Fast API, for producing predictions (whether it is malignant or benign) along with the associated confidence value of that prediction and the heatmap.
+* Developed as a Web App, using Fast API, for producing predictions (whether it is malignant or benign) along with the associated confidence value of that prediction and the heatmap.
 
 * Finally, the Web App is containerized using Docker and deployed via AWS using the EC2 instance with configuring all necessary components . 

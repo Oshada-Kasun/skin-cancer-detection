@@ -1,5 +1,4 @@
-# skin-cancer-detection-fastAPI
- Skin cancer detection using Deep Neural Networks
+# Skin cancer detection using Deep Neural Networks
 
 It is important to detect skin cancer and treat it at an initial stage to improve the overall survival rate in humans. This would also lead to a reduction in turnaround time in medical diagnosis by the oncologist, leading to more patient inflow per day in the hospital.
 Project aims to tackle this problem by implementing deep learning frameworks to detect skin cancer diseases with high confidence.
